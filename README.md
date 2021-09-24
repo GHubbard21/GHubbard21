@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in making iOS and Android apps and games.
 
-- 🌱 I’m currently learning React Native and other Porgramming Languages.
+- 🌱 I’m currently learning React Native and other Programming Languages.
 
 - 📫 How to reach me: Email: g21@tomhub.com 
                       Instagram: ghubbard21
